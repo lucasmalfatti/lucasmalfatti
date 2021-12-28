@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Malfatti 
+## Hello! I'm Lucas Malfatti 
 
 <div align="center">
   <a href="https://github.com/lucasmalfatti">
